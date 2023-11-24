@@ -21,8 +21,15 @@ h5{
   /* font-size: 15px; */
   text-align: justify;
 }
-button{
-  margin-left: 258px;
+.btn{
+  margin-left: 170px;
+}
+
+h3 font{font-size: 23px;
+}
+h4 font{font-size: 19px;
+}
+h5 font{font-size: 19px;
 }
 .card{
   width: 500px;

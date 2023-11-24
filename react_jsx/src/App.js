@@ -14,7 +14,7 @@ function App() {
       <Card >
         {name !== "" && <Image/>}
         <Card.Body>
-          <Card.Title><Name/></Card.Title>
+          <Card.Title ><Name/></Card.Title>
           <Card.Text >
               <Price/>
               <Description/>
